@@ -11,6 +11,8 @@ If `House.Door` and `House.Window` are dependent on the state of `House`, I look
   </House>
 ```
 
+You can find a working example here: https://codesandbox.io/s/vvzrw882q0
+
 ## Available Scripts
 
 In the project directory, you can run:
